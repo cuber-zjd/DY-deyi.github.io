@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Markdown基础语法与其编辑器使用</title>
+    <url>/2021/05/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h2 id="Markdown"><a href="#Markdown" class="headerlink" title="Markdown?"></a>Markdown?</h2><p>Markdown和HTML是一种 [标记语言] ，通常为程序员们所使用。当我们想用HTML写一个网页时，通常要使用大量的标签来完成，而这对于仅仅想要记录或者笔记功能的我们，非常不方便；而Markdown作为一款轻量级标记语言，很好的解决了这个问题。</p>
+<p>Markdown拥有更简洁的语法格式，对于记录和笔记来说，有着别的语言不可比拟的优势。</p>
+<h2 id="Markdown应用"><a href="#Markdown应用" class="headerlink" title="Markdown应用"></a>Markdown应用</h2><blockquote>
+<ul>
+<li>编撰电子书</li>
+<li>网站帮助文档或是论坛上发表消息，如github，简书，hexo等</li>
+<li>记笔记</li>
+<li>写博客</li>
+</ul>
+</blockquote>
+<h2 id="Markdown优势"><a href="#Markdown优势" class="headerlink" title="Markdown优势"></a>Markdown优势</h2><p>在写 markdown 优势前，先聊一下其他记录或编写文档的方式，我们最熟知的就是 windows 上的 word 和 macOS 上的 Pages；</p>
+<p>过去乃至如今，大部分的人还是使用这两种写文稿，当然能被大多数人所认可，绝对优点多多，但今天我们是来聊 markdown 的优势的，那就只能先委屈这两位了，我们来细数一下这两种格式的文稿在我们日常生活中所出现的错误或者劣势：</p>
+<blockquote>
+<ul>
+<li>对于系统有着要求，对于 windows 的人打不开<code>.pages</code>文件 而对于 macOS 的人打不开.<code>doc</code> ,<code>.docx</code> 文件；</li>
+<li>使用旧版和新版的word打开同一个文件，可能格式出现很大的区别；</li>
+<li>使用盗版的office打开文件，很容易出现错误；</li>
+<li>在不同的电脑上，即使使用同一版本的word也有可能出现格式不同的情况。</li>
+</ul>
+</blockquote>
+<p>这时候就该我们的 markdown 出场的时候了，markdown <strong>优点</strong>如下：</p>
+<blockquote>
+<ul>
+<li>语法简单易学。</li>
+<li>纯文本，所以兼容性极强，可以用所有文本编辑器打开。</li>
+<li>让你专注于文字而不是排版。</li>
+<li>Markdown 编写的文档可以导出 <code>HTML</code> 、<code>Word</code>、<code>img</code>、<code>PDF</code>、<code>Epub</code> 等多种格式的文档。</li>
+<li>Markdown 的标记语法有极好的可读性。</li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Markdown</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>程序员</tag>
+        <tag>markdown</tag>
+        <tag>编辑器</tag>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/05/09/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -17,28 +62,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>我的第一篇博客文章</title>
-    <url>/2021/05/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>##第一章</p>
-<p>张三</p>
-<span id="more"></span>
-
-
-<hr>
-<p>##第二章</p>
-<p>内容</p>
-<hr>
-<p>##参考文献</p>
-<p><a href="http://www.baidu.com/">www.baidu.com</a></p>
-]]></content>
-      <categories>
-        <category>java</category>
-      </categories>
-      <tags>
-        <tag>导航</tag>
-        <tag>分享</tag>
-      </tags>
   </entry>
 </search>
